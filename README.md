@@ -1,0 +1,2 @@
+# Xamarin.Android-RecycleView
+Android RecyclerView is a more advanced version of ListView with improved performance and other benefits. Using RecyclerView and CardView together, both lists and grids can be created very easily. In this tutorial, we are going to learn how to render a simple RecyclerView with a custom layout. We’ll also learn writing an adapter class, adding list divider and row click listener. For the recycler view we are going to design a list of photos and the title.
